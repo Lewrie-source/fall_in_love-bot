@@ -1,0 +1,23 @@
+2024-07-10 22:44:37,533 WARNING A WARNING
+2024-07-10 22:44:45,241 WARNING A WARNING
+2024-07-10 22:47:01,053 INFO added new record | database: fil_bot | table: fil | id, partner_id
+2024-07-10 22:47:13,206 INFO added new record | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:47:44,348 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:55:43,606 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:55:56,342 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:56:02,289 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:56:27,057 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:56:46,407 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:59:01,946 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:59:15,377 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 22:59:34,563 INFO ADDED NEW RECORD | database: fil_bot | table: fil | id, partner_id | 123, 321
+2024-07-10 23:14:02,531 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:15:08,676 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:15:17,621 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:23:36,680 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:24:37,315 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:24:48,268 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id'] | [123, 321]
+2024-07-10 23:25:25,428 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id', 'admin'] | [123, 321, 1]
+2024-07-10 23:27:56,407 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id', 'admin'] | [123, 321, 1]
+2024-07-10 23:28:21,890 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id', 'partner_id', 'admin'] | [123, 321, 1]
+2024-07-10 23:28:48,609 INFO ADDED NEW RECORD | database: fil_bot | table: fil | ['id'] | [123]
